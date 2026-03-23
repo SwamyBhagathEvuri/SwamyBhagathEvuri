@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Programming
-- Python | Java
+- Python | React |LangChain
 
 #### ☁️ Cloud & DevOps
 - AWS (S3, EC2, IAM, VPC)
@@ -29,8 +29,7 @@
 
 ### 📂 Featured Projects
 
-🔹 **Machine Learning Labs**  
-- Implemented ML models and data analysis techniques  
+ 
 
 🔹 **AWS Cloud Projects**  
 - Built scalable storage solutions using S3 and EC2  
